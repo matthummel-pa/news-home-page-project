@@ -1,6 +1,6 @@
 # News landing page coding practice for Front-end Mentor
 
-This is a practice challenge created for [Front-end Mentor](https://frontendmentor.com).  
+This is a practice challenge created for [Front-end Mentor]([https://frontendmentor.com](https://www.frontendmentor.io/solutions/news-home-page-project-dm_vRKT47p).  
 
 ## Technology Used
 
